@@ -8,5 +8,6 @@ namespace kod123
 {
     internal class NewClass
     {
+        // mark
     }
 }

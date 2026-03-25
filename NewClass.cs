@@ -8,5 +8,9 @@ namespace kod123
 {
     internal class NewClass
     {
+        public void NovaMetoda(){
+
+        }
+
     }
 }
